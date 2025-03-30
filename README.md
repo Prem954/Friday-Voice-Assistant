@@ -12,7 +12,7 @@ ai_assistant/
 ## 🚀 Installation  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/meliodas-sama1248/Friday-Voice-Assistant.git
+   git clone https://github.com/Prem954/Friday-Voice-Assistant.git
    cd Friday-Voice-Assistant/ai_assistant
    ```
 2. **Install dependencies:**  
