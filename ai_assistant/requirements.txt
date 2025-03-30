@@ -1,0 +1,9 @@
+speechrecognition  
+pyttsx3  
+pyaudio  
+wikipedia-api  
+tk  
+webbrowser  
+datetime  
+requests  
+wikipedia  
