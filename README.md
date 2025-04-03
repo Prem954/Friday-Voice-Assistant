@@ -1,6 +1,6 @@
-# Friday - AI Voice Assistant 🎙️  
+# Friday-Voice Assistant 🎙️  
 
-Friday is an AI-powered voice assistant that performs tasks like web searches, note-taking, playing music, and system control—all through voice commands. It features **speech recognition, text-to-speech**, and a **GUI interface** for a seamless user experience.  
+Friday is python based voice assistant that performs tasks like web searches, note-taking, playing music, and system control—all through voice commands. It features **speech recognition, text-to-speech**, and a **GUI interface** for a seamless user experience.  
 
 ## 📂 Project Structure  
 ```
